@@ -25,7 +25,7 @@
 
 ## 🛠️ Technologies Used (เครื่องมือที่ใช้พัฒนา)
 
-* **Game Engine:** Unity 6 (6000.x)
+* **Game Engine:** Unity 6 (6000.1.13f1)
 * **Language:** C#
 * **UI System:** Unity Canvas & TextMeshPro
 * **3D Models:** โฟลเดอร์ `Models/Pokemon` (ไฟล์ .fbx)
